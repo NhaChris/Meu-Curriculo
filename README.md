@@ -16,7 +16,7 @@ O foco principal aqui é a aplicação de interfaces modernas, animações fluid
 
 Você pode visualizar o projeto online através do link abaixo:
 
-> [**Visualizar Site na Vercel**](https://seu-portfolio.vercel.app)
+> [**Visualizar Site na Vercel**](https://meu-curriculo-two-phi.vercel.app/)
 
 ---
-*Desenvolvido por Chris — 2026*
+*Desenvolvido por Christyan Marcos — 2026*
