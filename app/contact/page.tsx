@@ -8,7 +8,7 @@ export default function Contact() {
     
          <main className="min-h-screen w-full flex flex-col items-center justify-center p-6 relative z-10">
               
-              {/* 2. Container Glassmorphism: centraliza os textos e cria um fundo translúcido */}
+              
               <div className="flex flex-col items-center gap-10 text-center bg-black/40 p-10 md:p-16 rounded-3xl backdrop-blur-md border border-white/10 w-full max-w-4xl">
                 
                 <h1 className="text-sm md:text-base text-gray-400 font-mono tracking-widest uppercase mb-4">
